@@ -1,0 +1,9 @@
+{
+  "name": "rng-javascript-web-app",
+  "version": "0.0.0",
+  "description": "RNG-JavascriptWebApp",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
